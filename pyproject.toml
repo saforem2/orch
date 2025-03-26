@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 [project]
 name = "orch"
 dynamic = ["version"]
-description = ''
+description = '🎶 Orchestrator: Your devices, your symphony.'
 readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"

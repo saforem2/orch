@@ -8,11 +8,11 @@
 
 name: Publish Python 🐍 distribution 📦 to PyPI with 🔖 GitHub Release 
 
-on: push
+# on: push
 
-# on:
-#  release:
-#    types: [published]
+on:
+ release:
+   types: [published]
 
 permissions:
   contents: read
